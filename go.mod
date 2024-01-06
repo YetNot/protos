@@ -1,4 +1,4 @@
-module protos
+module github.com/YetNot/protos
 
 go 1.21.1
 
